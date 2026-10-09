@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ✈️ 
 
 <!--
 **JetCalamiong/JetCalamiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,10 +21,10 @@ Hi! I am Jan Esrac Timothy L. Calamiong, a fresh graduate from BS Applied Physic
 - Generating graphs and reports using Python
 - Data Analysis using Excel
 
-## Projects
+## 📚 Projects
 - My DataAnalyst Portfolio Project can be found here
 
-## Tools
+## 🔭 Tools
 - Language: Python, SQL, Excel, Google Sheets
 - Databases: PostgreSQL, MySQL
 - Visualization: Power BI
