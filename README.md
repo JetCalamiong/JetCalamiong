@@ -1,4 +1,4 @@
-## Hi there ✈️ 
+## Hi there !! ✈️ 
 
 <!--
 **JetCalamiong/JetCalamiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I am Jan Esrac Timothy L. Calamiong, a fresh graduate from BS Applied Physics in UP Diliman. I am currently a scholar of DataCamp with Data Engineering Pilipinas, where I focused on data analyst courses.
+Hi! I am Jan Esrac Timothy L. Calamiong (JET), a fresh graduate from BS Applied Physics in UP Diliman. I am currently a scholar of DataCamp with Data Engineering Pilipinas, where I focused on data analyst courses.
 
 - Data Cleaning using SQL and Python
 - Developing dashboards using Power BI
