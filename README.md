@@ -22,7 +22,7 @@ Hi! I am Jan Esrac Timothy L. Calamiong, a fresh graduate from BS Applied Physic
 - Data Analysis using Excel
 
 ## 📚 Projects
-- My DataAnalyst Portfolio Project can be found here
+- My DataAnalyst Portfolio Project can be found [here] (https://github.com/JetCalamiong/DataAnalyst_PortfolioProjects)
 
 ## 🔭 Tools
 - Language: Python, SQL, Excel, Google Sheets
